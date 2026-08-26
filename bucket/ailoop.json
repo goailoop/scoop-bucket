@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/goailoop/ailoop/releases/download/v1.0.14/ailoop-x86_64-pc-windows-msvc.zip",
-      "hash": "547fb1682180c4a3b68caac3d875ac0ab4082878073974a880228eb2f349dfa1"
+      "hash": "1847ea9da5bd8e10636dce0a0d390cb7ae6b9a69a9fe34261df0194e07e8d29e"
     }
   },
   "bin": "ailoop.exe",
